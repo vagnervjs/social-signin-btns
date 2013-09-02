@@ -1,0 +1,46 @@
+/* Page Style */
+body{
+	width: 510px;
+	margin: 50px auto;
+	background: #1c284e;
+}
+
+button{ margin: 6px; }
+
+/* Social Buttons Style */
+.btn-si{
+	width: 240px;
+	height: 60px;
+
+	border-radius: 6px;
+	border: none;
+
+	color: #ffffff;
+	font-size: 16px;
+	text-decoration: none;
+	line-height: 38px;
+
+	transition: all .5s;
+}
+
+.btn-si > img{
+	vertical-align: middle;
+	margin-right: 8px;
+}
+
+.btn-google{ background: #DD4B39; }
+.btn-facebook{ background: #3B5998; }
+.btn-twitter{ background: #00ACED; }
+.btn-microsoft{ background: #e3b30d; }
+
+.btn-google:hover{ background: #ff5a4a; }
+.btn-facebook:hover{ background: #527dd8; }
+.btn-twitter:hover{ background: #19c6ff; }
+.btn-microsoft:hover{ background: #f2c00c; }
+
+.btn-google:active{ background: #b43b2d; }
+.btn-facebook:active{ background: #253963; }
+.btn-twitter:active{ background: #009eda; }
+.btn-microsoft:active{ background: #c89f0a; }
+
+.btn-si-img-resize{ width: 26px; height: 26px; } /* Hack to fix svg size */
