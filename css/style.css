@@ -66,4 +66,4 @@ h1, p{ font-family: arial; font-weight: 100; }
 
 /* Hack to fix svg size */
 .btn-si-img-resize{ width: 26px; height: 26px; }
-.btn-si-img-resize-bg{ width: 34px; height: 34px; }
+.btn-si-img-resize-bg{ width: 30px; height: 30px; }
