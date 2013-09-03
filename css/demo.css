@@ -1,0 +1,23 @@
+/* Page Style */
+body{
+	background: #1c284e;
+	color: #ffffff;
+	margin: 50px auto;
+	text-align: center;
+	width: 50%;
+}
+a{ 
+	color: #e96120; text-decoration: none; 
+}
+a:hover{ 
+	color: #fff; 
+}
+button{ 
+	margin: 6px; 
+}
+h1, p{ 
+	font-family: arial; font-weight: 100; 
+}
+.smaller .btn-si{
+  font-size: 10px;
+}

@@ -1,0 +1,95 @@
+/* Social Buttons Style */
+.btn-si {
+  background-position: 1em;
+  background-repeat: no-repeat;
+  background-size: 2em;
+  border-radius: 0.5em;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 1em;
+  height: 4em;
+  line-height: 1em;
+  padding: 0 2em 0 4em;
+  text-decoration: none;
+  transition: all 0.5s; }
+
+.btn-google {
+  background-color: #dd4b39;
+  background-image: url("../img/google.svg"); }
+  .btn-google:hover {
+    background-color: #e15f4f; }
+  .btn-google:active {
+    background-color: #e36b5c; }
+
+.btn-facebook {
+  background-color: #3b5998;
+  background-image: url("../img/facebook.svg"); }
+  .btn-facebook:hover {
+    background-color: #4264aa; }
+  .btn-facebook:active {
+    background-color: #466ab5; }
+
+.btn-twitter {
+  background-color: #00aced;
+  background-image: url("../img/twitter.svg"); }
+  .btn-twitter:hover {
+    background-color: #07bbff; }
+  .btn-twitter:active {
+    background-color: #17bfff; }
+
+.btn-microsoft {
+  background-color: #e3b30d;
+  background-image: url("../img/microsoft.svg"); }
+  .btn-microsoft:hover {
+    background-color: #f2c118; }
+  .btn-microsoft:active {
+    background-color: #f3c526; }
+
+.btn-github {
+  background-color: #2a2a2a;
+  background-image: url("../img/github.svg"); }
+  .btn-github:hover {
+    background-color: #373737; }
+  .btn-github:active {
+    background-color: #3e3e3e; }
+
+.btn-foursquare {
+  background-color: #95c330;
+  background-image: url("../img/foursquare.svg"); }
+  .btn-foursquare:hover {
+    background-color: #a2cf3d; }
+  .btn-foursquare:active {
+    background-color: #a7d249; }
+
+.btn-instagram {
+  background-color: #906248;
+  background-image: url("../img/instagram.svg"); }
+  .btn-instagram:hover {
+    background-color: #a16e51; }
+  .btn-instagram:active {
+    background-color: #ab7556; }
+
+.btn-linkedin {
+  background-color: #0b5ea3;
+  background-image: url("../img/linkedin.svg"); }
+  .btn-linkedin:hover {
+    background-color: #0d6cbb; }
+  .btn-linkedin:active {
+    background-color: #0e74c9; }
+
+.btn-evernote {
+  background-color: #5ca629;
+  background-image: url("../img/evernote.svg"); }
+  .btn-evernote:hover {
+    background-color: #67ba2e; }
+  .btn-evernote:active {
+    background-color: #6ec731; }
+
+.btn-dropbox {
+  background-color: #1b73d1;
+  background-image: url("../img/dropbox.svg"); }
+  .btn-dropbox:hover {
+    background-color: #2380e3; }
+  .btn-dropbox:active {
+    background-color: #3087e4; }

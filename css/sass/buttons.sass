@@ -1,0 +1,26 @@
+$services: google #DD4B39, facebook #3B5998, twitter #00ACED, microsoft #e3b30d, github #2a2a2a, foursquare #95c330, instagram #906248, linkedin #0b5ea3, evernote #5ca629, dropbox #1b73d1
+
+/* Social Buttons Style */
+.btn-si
+  background-position: 1em
+  background-repeat: no-repeat
+  background-size: 2em
+  border-radius: .5em
+  border: none
+  color: #fff
+  cursor: pointer
+  font-size: 1em
+  height: 4em
+  line-height: 1em
+  padding: 0 2em 0 4em
+  text-decoration: none
+  transition: all .5s
+
+@each $service in $services
+  .btn-#{ nth($service, 1)}
+    background-color: #{ nth($service, 2)}
+    background-image: url("../img/#{ nth($service, 1)}.svg")
+    &:hover
+      background-color: lighten( nth($service, 2), 5% )
+    &:active
+      background-color: lighten( nth($service, 2), 8% )
