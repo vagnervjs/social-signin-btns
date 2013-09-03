@@ -21,6 +21,6 @@ $services: google #DD4B39, facebook #3B5998, twitter #00ACED, microsoft #e3b30d,
     background-color: #{ nth($service, 2)}
     background-image: url("../img/#{ nth($service, 1)}.svg")
     &:hover
-      background-color: lighten( nth($service, 2), 5% )
+      background-color: lighten( nth($service, 2), 10% )
     &:active
-      background-color: lighten( nth($service, 2), 8% )
+      background-color: darken( nth($service, 2), 10% )

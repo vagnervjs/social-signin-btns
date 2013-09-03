@@ -18,78 +18,78 @@
   background-color: #dd4b39;
   background-image: url("../img/google.svg"); }
   .btn-google:hover {
-    background-color: #e15f4f; }
+    background-color: #e47365; }
   .btn-google:active {
-    background-color: #e36b5c; }
+    background-color: #c23321; }
 
 .btn-facebook {
   background-color: #3b5998;
   background-image: url("../img/facebook.svg"); }
   .btn-facebook:hover {
-    background-color: #4264aa; }
+    background-color: #4c70ba; }
   .btn-facebook:active {
-    background-color: #466ab5; }
+    background-color: #2d4373; }
 
 .btn-twitter {
   background-color: #00aced;
   background-image: url("../img/twitter.svg"); }
   .btn-twitter:hover {
-    background-color: #07bbff; }
+    background-color: #21c2ff; }
   .btn-twitter:active {
-    background-color: #17bfff; }
+    background-color: #0087ba; }
 
 .btn-microsoft {
   background-color: #e3b30d;
   background-image: url("../img/microsoft.svg"); }
   .btn-microsoft:hover {
-    background-color: #f2c118; }
+    background-color: #f3c730; }
   .btn-microsoft:active {
-    background-color: #f3c526; }
+    background-color: #b38d0a; }
 
 .btn-github {
   background-color: #2a2a2a;
   background-image: url("../img/github.svg"); }
   .btn-github:hover {
-    background-color: #373737; }
+    background-color: #444444; }
   .btn-github:active {
-    background-color: #3e3e3e; }
+    background-color: #101010; }
 
 .btn-foursquare {
   background-color: #95c330;
   background-image: url("../img/foursquare.svg"); }
   .btn-foursquare:hover {
-    background-color: #a2cf3d; }
+    background-color: #abd452; }
   .btn-foursquare:active {
-    background-color: #a7d249; }
+    background-color: #769a26; }
 
 .btn-instagram {
   background-color: #906248;
   background-image: url("../img/instagram.svg"); }
   .btn-instagram:hover {
-    background-color: #a16e51; }
+    background-color: #ae7a5d; }
   .btn-instagram:active {
-    background-color: #ab7556; }
+    background-color: #6e4b37; }
 
 .btn-linkedin {
   background-color: #0b5ea3;
   background-image: url("../img/linkedin.svg"); }
   .btn-linkedin:hover {
-    background-color: #0d6cbb; }
+    background-color: #0e7ad3; }
   .btn-linkedin:active {
-    background-color: #0e74c9; }
+    background-color: #084273; }
 
 .btn-evernote {
   background-color: #5ca629;
   background-image: url("../img/evernote.svg"); }
   .btn-evernote:hover {
-    background-color: #67ba2e; }
+    background-color: #73cd35; }
   .btn-evernote:active {
-    background-color: #6ec731; }
+    background-color: #457d1f; }
 
 .btn-dropbox {
   background-color: #1b73d1;
   background-image: url("../img/dropbox.svg"); }
   .btn-dropbox:hover {
-    background-color: #2380e3; }
+    background-color: #3a8de5; }
   .btn-dropbox:active {
-    background-color: #3087e4; }
+    background-color: #155aa4; }

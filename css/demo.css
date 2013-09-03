@@ -6,18 +6,18 @@ body{
 	text-align: center;
 	width: 50%;
 }
-a{ 
-	color: #e96120; text-decoration: none; 
+a{ color: #e96120; text-decoration: none; }
+
+a:hover{ color: #fff; }
+
+button{ margin: 6px; }
+
+h1, h2, h3, p, ul{ font-family: arial; font-weight: 100; }
+
+h3, ul { text-align: right; }
+ul{
+	list-style: none;
+	font-size: 14px;
 }
-a:hover{ 
-	color: #fff; 
-}
-button{ 
-	margin: 6px; 
-}
-h1, p{ 
-	font-family: arial; font-weight: 100; 
-}
-.smaller .btn-si{
-  font-size: 10px;
-}
+
+.smaller .btn-si{ font-size: 10px; }

@@ -1,0 +1,56 @@
+/* Social Buttons Style */
+.btn-si{
+	width: 240px;
+	height: 60px;
+	color: #ffffff;
+	font-size: 16px;
+	text-decoration: none;
+	line-height: 38px;
+	border-radius: 6px;
+	border: none;
+	cursor: pointer;
+	-webkit-transition: all .5s;
+	transition: all .5s;
+}
+
+.btn-si > img{
+	vertical-align: middle;
+	margin-right: 8px;
+}
+
+.btn-google{ background: #DD4B39; }
+.btn-facebook{ background: #3B5998; }
+.btn-twitter{ background: #00ACED; }
+.btn-microsoft{ background: #e3b30d; }
+.btn-github{ background: #2a2a2a; }
+.btn-foursquare{ background: #95c330; }
+.btn-instagram{ background: #906248; }
+.btn-linkedin{ background: #0b5ea3; }
+.btn-evernote{ background: #5ca629; }
+.btn-dropbox{ background: #1b73d1; }
+
+.btn-google:hover{ background: #ff5a4a; }
+.btn-facebook:hover{ background: #527dd8; }
+.btn-twitter:hover{ background: #19c6ff; }
+.btn-microsoft:hover{ background: #f2c00c; }
+.btn-github:hover{ background: #4e4e4e; }
+.btn-foursquare:hover{ background: #a9e031; }
+.btn-instagram:hover{ background: #c68562; }
+.btn-linkedin:hover{ background: #0c6fc0; }
+.btn-evernote:hover{ background: #75d633; }
+.btn-dropbox:hover{ background: #1f8dff; }
+
+.btn-google:active{ background: #b43b2d; }
+.btn-facebook:active{ background: #253963; }
+.btn-twitter:active{ background: #009eda; }
+.btn-microsoft:active{ background: #c89f0a; }
+.btn-github:active{ background: #171717; }
+.btn-foursquare:active{ background: #6f9321; }
+.btn-instagram:active{ background: #5e3f2f; }
+.btn-linkedin:active{ background: #06375f; }
+.btn-evernote:active{ background: #315a15; }
+.btn-dropbox:active{ background: #104a86; }
+
+/* Hack to fix svg size */
+.btn-si-img-resize{ width: 26px; height: 26px; }
+.btn-si-img-resize-bg{ width: 34px; height: 34px; }
