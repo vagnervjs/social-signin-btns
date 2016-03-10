@@ -94,6 +94,14 @@
   .btn-dropbox:active {
     background-color: #155aa4; }
 
+.btn-bitbucket {
+  background-color: #205081;
+  background-image: url("../img/bitbucket.svg"); }
+  .btn-bitbucket:hover {
+    background-color: #3572B0; }
+  .btn-bitbucket:active {
+    background-color: ##4E8AC7; }
+
 .btn-si-a {
   padding: 25px 15px 25px 65px !important;
   font-family: arial; }
