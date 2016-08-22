@@ -102,6 +102,14 @@
   .btn-bitbucket:active {
     background-color: ##4E8AC7; }
 
+.btn-xing {
+  background-color: #25595E;
+  background-image: url("../img/xing.svg"); }
+  .btn-xing:hover {
+    background-color: #388087; }
+  .btn-xing:active {
+    background-color: #184A4B; }
+
 .btn-si-a {
   padding: 25px 15px 25px 65px !important;
   font-family: arial; }
