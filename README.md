@@ -1,14 +1,14 @@
-#Social Sign In Buttons CSS
+# Social Sign In Buttons CSS
 
 Buttons made with CSS and SVG icons.
 
-##Demo
+## Demo
 ![image](http://f.cl.ly/items/3x1H1Z3P1q1d031Z2K43/sigin-btns.png)
 
-##Live Demo: 
+## Live Demo: 
 [http://vagnervjs.github.io/social-signin-btns](http://vagnervjs.github.io/social-signin-btns)
 
-###Support
+### Support
 
 - IE 8+ 
 - Firefox	4+
@@ -30,7 +30,7 @@ Buttons made with CSS and SVG icons.
 --- | --- | --- | --- | --- | --- | ---
 [Vagner Santana](http://vagnersantana.com)<br>[@vagnervjs](http://twitter.com/vagnervjs)|
 
-###Contributors
+### Contributors
 
 - Luiz Tanure: [https://github.com/letanure](https://github.com/letanure)
 
