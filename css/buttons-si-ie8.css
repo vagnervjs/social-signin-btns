@@ -28,6 +28,7 @@
 .btn-linkedin{ background: #0b5ea3; }
 .btn-evernote{ background: #5ca629; }
 .btn-dropbox{ background: #1b73d1; }
+.btn-xing{ background: #25595E; }
 
 .btn-google:hover{ background: #ff5a4a; }
 .btn-facebook:hover{ background: #527dd8; }
@@ -39,6 +40,7 @@
 .btn-linkedin:hover{ background: #0c6fc0; }
 .btn-evernote:hover{ background: #75d633; }
 .btn-dropbox:hover{ background: #1f8dff; }
+.btn-xing:hover{ background: #388087; }
 
 .btn-google:active{ background: #b43b2d; }
 .btn-facebook:active{ background: #253963; }
@@ -50,6 +52,7 @@
 .btn-linkedin:active{ background: #06375f; }
 .btn-evernote:active{ background: #315a15; }
 .btn-dropbox:active{ background: #104a86; }
+.btn-xing:active{ background: #184A4B; }
 
 /* Hack to fix svg size */
 .btn-si-img-resize{ width: 26px; height: 26px; }
